@@ -7,3 +7,5 @@ Git is free software. distributed under the GPL
 分支f1(建立)
 >>>>>>> f1
 处理master与f1 分支合并
+
+已删除f1分支 新建dev分支
